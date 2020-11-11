@@ -1,2 +1,0 @@
-# pong-game
-pong game
